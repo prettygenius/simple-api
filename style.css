@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   
-  background-image: url('/images/cocktails.jpg');
+  background-image: url('cocktails.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
